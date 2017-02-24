@@ -1,0 +1,21 @@
+<manifest>
+    <main-class>com.raymondbl.runemate.wealthEvaluator.RaysWealthEvaluator</main-class>
+    <name>Ray's Wealth Evaluator</name>
+    <description>Determines the monetary worth of tradeable items in your bank or inventory. Start near a bank for bank functionality. Does not include money pouch.</description>
+    <version>0.6</version>
+    <compatibility>
+        <game-type>RS3</game-type>
+    </compatibility>
+    <categories>
+        <category>OTHER</category>
+    </categories>
+    <!--Required to publish on the bot store-->
+    <internal-id>WealthEvaluator</internal-id>
+    <!--The rest are optional-->
+    <open-source>true</open-source>
+    <hidden>false</hidden>
+    <access>public</access>
+    <tags>
+        <tag>Bank</tag>
+    </tags>
+</manifest>

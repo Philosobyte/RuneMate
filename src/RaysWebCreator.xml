@@ -1,0 +1,20 @@
+<manifest>
+    <main-class>com.raymondbl.runemate.webCreator.RaysWebCreator</main-class>
+    <name>Ray's Web Creator</name>
+    <description>Creates a web</description>
+    <version>0.50</version>
+    <compatibility>
+        <game-type>RS3</game-type>
+    </compatibility>
+    <categories>
+        <category>RUNECRAFTING</category>
+    </categories>
+    <!--The rest are optional-->
+    <open-source>false</open-source>
+    <hidden>false</hidden>
+    <tags>
+        <tag>Headless Arrows</tag>
+    </tags>
+    <!--Required to publish on the bot store-->
+    <internal-id>NatCrafter</internal-id>
+</manifest>

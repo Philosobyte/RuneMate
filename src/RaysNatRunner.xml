@@ -1,0 +1,23 @@
+<manifest>
+    <main-class>com.raymondbl.runemate.natRunner.RaysNatRunner</main-class>
+    <name>Ray's Nature Altar Runner</name>
+    <description>Crafts nature runes with a spirit graahk. Please see the thread for important details.</description>
+    <version>1.03</version>
+    <compatibility>
+        <game-type>RS3</game-type>
+    </compatibility>
+    <categories>
+        <category>RUNECRAFTING</category>
+    </categories>
+    <!--The rest are optional-->
+    <open-source>false</open-source>
+    <hidden>false</hidden>
+    <tags>
+        <tag>Nature</tag>
+    </tags>
+    <resources>
+	<resource>webbset.bin</resource>
+    </resources>
+    <!--Required to publish on the bot store-->
+    <internal-id>NatCrafter</internal-id>
+</manifest>

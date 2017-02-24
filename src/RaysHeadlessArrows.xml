@@ -1,0 +1,20 @@
+<manifest>
+    <main-class>com.raymondbl.runemate.headlessArrows.RaysHeadlessArrows</main-class>
+    <name>Ray's Headless Arrows</name>
+    <description>Start with feathers and arrow shafts in inventory. Combines them into headless arrows for profit.</description>
+    <version>0.70</version>
+    <compatibility>
+        <game-type>RS3</game-type>
+    </compatibility>
+    <categories>
+        <category>FLETCHING</category>
+    </categories>
+    <!--The rest are optional-->
+    <open-source>true</open-source>
+    <hidden>false</hidden>
+    <tags>
+        <tag>Headless Arrows</tag>
+    </tags>
+    <!--Required to publish on the bot store-->
+    <internal-id>HeadlessArrows</internal-id>
+</manifest>
